@@ -1,5 +1,7 @@
 body {
     font-family: 'PT Serif', serif;
+    background-color: #fffcfd;
+    background-image: url("https://transparenttextures.com/patterns/cubes.png");
 }
 
 h2 {
